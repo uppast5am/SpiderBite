@@ -1,0 +1,2 @@
+# SpiderBite
+For photography class
